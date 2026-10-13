@@ -41,7 +41,7 @@ Priority Score = 0,6 × Response Score + 0,4 × Value Score
 
 | Campaign Overview | Customer Insights | Customer Targeting |
 |---|---|---|
-| ![](images/dashboard_overview.jpg) | ![](images/dashboard_insights.jpg) | ![](images/dashboard_targeting.jpg) |
+| ![](images/dashboard_overview.jpg) | ![](images/dashboard_insight.jpg) | ![](images/dashboard_targeting.jpg) |
 
 ## Cấu trúc thư mục
 
