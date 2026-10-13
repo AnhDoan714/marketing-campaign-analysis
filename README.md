@@ -45,8 +45,6 @@ Priority Score = 0,6 × Response Score + 0,4 × Value Score
 
 ## Cấu trúc thư mục
 
-## Cấu trúc thư mục
-
 - `marketing_campaign_analysis.ipynb`: làm sạch dữ liệu và phân tích (Python)
 - `Marketing_Campaign_Analyst.pbix`: dashboard Power BI (mở bằng Power BI Desktop)
 - `Marketing_Campaign_Report.pdf`: báo cáo đầy đủ
