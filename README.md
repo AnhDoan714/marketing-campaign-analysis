@@ -5,7 +5,7 @@ một chuỗi bán lẻ, từ đó xác định nhóm khách cần ưu tiên cho
 
 **Công cụ:** Python (pandas, numpy, matplotlib, seaborn) · Power BI · Google Colab
 
-![Dashboard tổng quan](images/dashboard_overview.png)
+![Dashboard tổng quan](images/dashboard_overview.jpg)
 
 ## Bài toán
 
